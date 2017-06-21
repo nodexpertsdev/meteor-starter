@@ -1,0 +1,9 @@
+{
+  "name": "meteor-starter",
+  "version": "0.0.1",
+  "description": "Starter for a Meteor Project",
+  "author": "NodeXperts",
+  "scripts": {},
+  "dependencies": {
+  }
+}
